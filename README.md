@@ -23,7 +23,7 @@ pip install pyautogui keyboard requests pillow
 ## Execution:
 
 To start the script, run the auto-skipper.py file. A simple interface will appear, allowing you to choose the streaming service you wish to use.
-'python auto-skipper.py'
+'python aut-skipper.py'
 
 ## Service Selection:
 
@@ -79,7 +79,7 @@ pip install pyautogui keyboard requests pillow
 ## Execução:
 
 Para iniciar o script, execute o arquivo auto-skipper.py. Uma interface simples será exibida, permitindo que você escolha o serviço de streaming que deseja usar.
-python auto-skipper.py
+python aut-skipper.py
 
 ## Seleção de Serviço:
 
