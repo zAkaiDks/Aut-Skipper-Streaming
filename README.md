@@ -2,6 +2,10 @@
 
 Auto-Skipper is an automated Python script designed to enhance streaming experiences by automatically skipping intros, ads, and end credits on various popular streaming services such as Crunchyroll, Netflix, Amazon Prime Video, Disney Plus, and YouTube. This script is ideal for users who want to optimize their viewing time by avoiding frequent interruptions.
 
+## Note on Images Used in the Script
+
+Please be aware that the images embedded within the code are tailored for Brazilian users and are in my native language, Portuguese. The functionality is not guaranteed in other countries if the script is used as is, due to the images saved being specific to my language. For full functionality in your region, you may need to modify the links to each image in the code to match the intros, ads, and end credits in your language.
+
 ## Features
 
 Multi-Service Support: Works with Crunchyroll, Netflix, Amazon Prime Video, Disney Plus, and YouTube.
@@ -58,6 +62,10 @@ Developed by Viajante47. All rights reserved.
 ## Auto-Skipper (Português)
 
 Auto-Skipper é um script Python automatizado projetado para aprimorar a experiência de streaming, pulando automaticamente introduções, anúncios e créditos finais em vários serviços populares de streaming, como Crunchyroll, Netflix, Amazon Prime Video, Disney Plus e YouTube. Este script é ideal para usuários que desejam otimizar seu tempo de visualização, evitando interrupções frequentes.
+
+## Nota sobre as Imagens Usadas no Script
+
+Esteja ciente de que as imagens incorporadas no código são adaptadas para usuários brasileiros e estão em minha língua nativa, o português. A funcionalidade não é garantida em outros países se o script for usado como está, devido às imagens salvas serem específicas para o meu idioma. Para total funcionalidade em sua região, você pode precisar modificar os links de cada imagem no código para corresponder às introduções, anúncios e créditos finais no seu idioma.
 
 ## Características
 
